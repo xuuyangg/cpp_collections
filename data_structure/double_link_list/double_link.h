@@ -1,6 +1,6 @@
 /*
 double link list implementation
-created by xuyang at zju
+created by xuyang in zju
 */
 #ifndef DOUBLE_LINK__
 #define DOUBLE_LINK__
